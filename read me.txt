@@ -1,0 +1,19 @@
+####  Frontend Setup:
+Download or clone the Flask project from GitHub.
+Navigate to the project directory in your terminal.
+####  Backend Setup:
+Install Flask and other necessary Python libraries:
+pip install flask
+pip install PyPDF2
+pip install fitz
+pip install xlsxwriter
+pip install base64
+pip install imghdr
+
+then execute the Flask application:
+python3 app.py
+
+
+finally Open your web browser and enter the following address:
+http://localhost:5000
+
